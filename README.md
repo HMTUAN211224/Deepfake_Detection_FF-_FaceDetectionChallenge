@@ -1,1 +1,0 @@
-# Deepfake_Detection_FF-_FaceDetectionChallenge
